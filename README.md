@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @ifeolugbekan
+- 👀 An Exploratory Data Analysis on the Unicorn Companies using JupyterNotebook Python
+- 🌱 I uploaded the dataset
+- 💞️ I did a Data Cleaning and Manipulation. One of these was removing the dollar and object sign from the valuation and funding column and change its data type to a float for my ROI calculations.
+- 📫 After doing all the cleaning and manipulations, i started generating my relationships and insights.
+- I generated about sixteen insights, some of which are: Top 10 Unicorn companies with the highest return on investment, Top and bottom Unicorn Investors by funding, Top and bottom industries by City, funding by Continent, trend in the year founded and year joined etc.
+- I also generated other insights as well using the necessary charts, made thrilling observations and effective decision-making recommendations.
+- The challenges i encountered were enormous. I had issues with uploading the data set, it took a while after constant research and hardwork to finally upload the data set.
+- I also encountered challenges in cleaning and manipulating the data to suit what i want from it, including generating the insights.
+- It took a very long time to finally finish up, being my first. 
